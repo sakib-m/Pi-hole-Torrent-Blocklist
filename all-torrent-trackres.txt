@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Apr 25 14:00:08 UTC 2025
+# Last Update - Sat Apr 26 02:00:08 UTC 2025
 # --------------------------------------------
-# Total domains: 985
+# Total domains: 987
 # --------------------------------------------
 # Total size: 18K
 # --------------------------------------------
@@ -663,6 +663,7 @@ tracker.dmhy.pw
 tracker.dnlab.net
 tracker.draatman.uk
 tracker.ds.is
+tracker.ducks.party
 tracker.dump.cl
 tracker.dutchtracking.nl
 tracker.dyne.org
@@ -846,6 +847,7 @@ tracker.torrentuje.me
 tracker.torrenty.org
 tracker.torrentyorg.pl
 tracker.torrust-demo.com
+tracker.trackarr.org
 tracker.trackerfix.com
 tracker.trackton.ga
 tracker.tricitytorrents.com
