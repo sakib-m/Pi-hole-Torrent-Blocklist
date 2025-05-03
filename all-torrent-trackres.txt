@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri May  2 14:00:09 UTC 2025
+# Last Update - Sat May  3 02:00:07 UTC 2025
 # --------------------------------------------
-# Total domains: 459
+# Total domains: 465
 # --------------------------------------------
-# Total size: 8.3K
+# Total size: 8.4K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -30,6 +30,7 @@ aaa.army
 academic-p2p.appspot.com
 acg.rip
 adm.category5.tv
+admin.52ywp.com
 admin.videoenpoche.info
 adminion.n-blade.ru
 all4nothin.net
@@ -125,6 +126,7 @@ ipv4announce.sktorrent.eu
 ipv6.rer.lol
 ipv6.tracker.harry.lu
 ipv6.tracker.zerobytes.xyz
+isk.richardsw.club
 ismaarino.com
 jsb.by
 kanal-4.de
@@ -303,6 +305,7 @@ tracker.dler.org
 tracker.dmcomic.org
 tracker.ds.is
 tracker.ducks.party
+tracker.dump.cl
 tracker.dutchtracking.nl
 tracker.dyne.org
 tracker.e-utp.net
@@ -348,6 +351,7 @@ tracker.leechshield.link
 tracker.lelux.fi
 tracker.lilithraws.org
 tracker.lintk.me
+tracker.linvk.com
 tracker.minglong.org
 tracker.mininova.org
 tracker.moeblog.cn
@@ -390,6 +394,7 @@ tracker.tamersunion.org
 tracker.tasvideos.org
 tracker.teambelgium.net
 tracker.theempire.bz
+tracker.theoks.net
 tracker.therarbg.to
 tracker.tiny-vps.com
 tracker.tntvillage.scambioetico.org
@@ -446,6 +451,7 @@ uatracker.net
 udp.tracker.projectk.org
 ultra.zt.ua
 us-tracker.publictracker.xyz
+utracker.ghostchu-services.top
 valakas.rollo.dnsabr.com
 vibe.community
 vpn.flying-datacenter.de
