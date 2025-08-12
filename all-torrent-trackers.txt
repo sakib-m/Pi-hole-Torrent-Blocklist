@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Aug 11 17:10:02 UTC 2025
+# Last Update - Tue Aug 12 02:00:07 UTC 2025
 # --------------------------------------------
-# Total domains: 463
+# Total domains: 471
 # --------------------------------------------
-# Total size: 8.4K
+# Total size: 8.5K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -32,6 +32,7 @@ aaa.army
 academic-p2p.appspot.com
 acg.rip
 adm.category5.tv
+admin.52ywp.com
 admin.videoenpoche.info
 adminion.n-blade.ru
 all4nothin.net
@@ -115,6 +116,7 @@ forever.publictracker.xyz
 free-tracker.zooki.xyz
 funfile.org
 git.vulnix.sh
+glotorrents.pw
 grifon.info
 h4.trakx.nibba.trade
 hdreactor.org
@@ -136,6 +138,7 @@ kanal-4.de
 kinorun.com
 koli.services
 learnbits.me
+leet-tracker.moe
 line-net.ru
 ln.mtahost.co
 loushao.net
@@ -263,6 +266,7 @@ tr.nyacat.pw
 tr.ready4.icu
 tr.zukizuki.org
 tr2.ysagin.top
+tr3.ysagin.top
 tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
 tracker-v6.zooki.xyz
@@ -285,11 +289,13 @@ tracker.bitcoinindia.space
 tracker.bittor.pw
 tracker.bittorrent.am
 tracker.blacksparrowmedia.net
+tracker.breizh.pm
 tracker.bt-hash.com
 tracker.bt4g.com
 tracker.btnext.com
 tracker.btsync.gq
 tracker.bz
+tracker.cangku.moe
 tracker.coppersurfer.tk
 tracker.corpscorp.online
 tracker.cutie.dating
@@ -333,6 +339,7 @@ tracker.iamhansen.xyz
 tracker.idocdn.com
 tracker.imgoingto.icu
 tracker.internetwarriors.net
+tracker.iperson.xyz
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
 tracker.jdx3.org
@@ -358,6 +365,7 @@ tracker.nitrix.me
 tracker.noobsubs.net
 tracker.nyaa.uk
 tracker.nyap2p.com
+tracker.ololosh.space
 tracker.open-internet.nl
 tracker.openbittorrent.com
 tracker.opentracker.se
