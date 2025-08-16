@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Aug 15 14:00:07 UTC 2025
+# Last Update - Sat Aug 16 02:00:08 UTC 2025
 # --------------------------------------------
-# Total domains: 475
+# Total domains: 479
 # --------------------------------------------
-# Total size: 8.6K
+# Total size: 8.7K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -20,6 +20,7 @@
 2.tracker.eu.org
 3.tracker.eu.org
 3rt.tace.ru
+4.tracker.eu.org
 47.ip-51-68-199.eu
 5rt.tace.ru
 61626c.net
@@ -224,6 +225,7 @@ share.hkg-fansub.info
 shnflac.net
 shubt.net
 siambt.com
+speedtest.iperson.xyz
 sukebei.tracker.wf
 t.acg.rip
 t.jaekr.sh
@@ -298,6 +300,7 @@ tracker.btnext.com
 tracker.btsync.gq
 tracker.bz
 tracker.cangku.moe
+tracker.cloudbase.store
 tracker.coppersurfer.tk
 tracker.corpscorp.online
 tracker.cutie.dating
@@ -394,6 +397,7 @@ tracker.skynetcloud.site
 tracker.skyts.net
 tracker.sloppyta.co
 tracker.srv00.com
+tracker.startwork.cv
 tracker.swateam.org.uk
 tracker.tambovnet.org
 tracker.tamersunion.org
