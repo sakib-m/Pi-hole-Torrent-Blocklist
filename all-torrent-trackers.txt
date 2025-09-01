@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Aug 31 14:00:06 UTC 2025
+# Last Update - Mon Sep  1 02:00:07 UTC 2025
 # --------------------------------------------
-# Total domains: 491
+# Total domains: 492
 # --------------------------------------------
 # Total size: 9.0K
 # --------------------------------------------
@@ -388,6 +388,7 @@ tracker.opentracker.se
 tracker.opentrackr.org
 tracker.parrotlinux.org
 tracker.parrotsec.org
+tracker.pcfreetime.com
 tracker.pirateparty.gr
 tracker.piratepublic.com
 tracker.plx.im
