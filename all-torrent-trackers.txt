@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Sep 15 14:00:07 UTC 2025
+# Last Update - Tue Sep 16 02:00:06 UTC 2025
 # --------------------------------------------
-# Total domains: 498
+# Total domains: 499
 # --------------------------------------------
 # Total size: 9.1K
 # --------------------------------------------
@@ -422,6 +422,7 @@ tracker.theempire.bz
 tracker.theoks.net
 tracker.therarbg.to
 tracker.tiny-vps.com
+tracker.tnl.one
 tracker.tntvillage.scambioetico.org
 tracker.torrent.eu.org
 tracker.torrentbay.to
