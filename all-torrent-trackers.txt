@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Sep 20 14:00:07 UTC 2025
+# Last Update - Sun Sep 21 02:00:07 UTC 2025
 # --------------------------------------------
-# Total domains: 503
+# Total domains: 504
 # --------------------------------------------
 # Total size: 9.2K
 # --------------------------------------------
@@ -89,6 +89,7 @@ camera.lei001.com
 carbon-bonsai-621.appspot.com
 cdn-1.gamecoast.org
 cdn-2.gamecoast.org
+ch3oh.ru
 chanchan.uchuu.co.uk
 chihaya.de
 chihaya.toss.li
