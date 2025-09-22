@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Sep 22 02:00:06 UTC 2025
+# Last Update - Mon Sep 22 14:00:11 UTC 2025
 # --------------------------------------------
-# Total domains: 505
+# Total domains: 508
 # --------------------------------------------
-# Total size: 9.2K
+# Total size: 9.3K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -174,10 +174,12 @@ ns349743.ip-91-121-106.eu
 ns389251.ovh.net
 nyaa.tracker.wf
 omg.wtftrackr.xyz
+open-tracker.demonoid.ch
 open.acgnxtracker.com
 open.acgtracker.com
 open.demonii.com
 open.demonii.si
+open.demonoid.ch
 open.dstud.io
 open.free-tracker.ga
 open.kickasstracker.com
@@ -202,6 +204,7 @@ pow7.com
 prestige.minimafia.nl
 proaudiotorrents.org
 public-tracker.zooki.xyz
+public.demonoid.ch
 public.popcorn-tracker.org
 public.publictracker.xyz
 public.tracker.vraphim.com
