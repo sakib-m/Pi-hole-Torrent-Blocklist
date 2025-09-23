@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Sep 22 14:00:11 UTC 2025
+# Last Update - Tue Sep 23 02:00:07 UTC 2025
 # --------------------------------------------
-# Total domains: 508
+# Total domains: 510
 # --------------------------------------------
 # Total size: 9.3K
 # --------------------------------------------
@@ -86,6 +86,7 @@ bt2.edwardk.info
 bubu.mapfactor.com
 buny.uk
 burmese.app
+bvarf.tracker.sh
 camera.lei001.com
 carbon-bonsai-621.appspot.com
 cdn-1.gamecoast.org
@@ -175,6 +176,7 @@ ns389251.ovh.net
 nyaa.tracker.wf
 omg.wtftrackr.xyz
 open-tracker.demonoid.ch
+open-v6.demonoid.ch
 open.acgnxtracker.com
 open.acgtracker.com
 open.demonii.com
