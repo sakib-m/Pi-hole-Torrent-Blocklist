@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Oct  8 14:00:10 UTC 2025
+# Last Update - Thu Oct  9 02:00:06 UTC 2025
 # --------------------------------------------
-# Total domains: 517
+# Total domains: 519
 # --------------------------------------------
 # Total size: 9.5K
 # --------------------------------------------
@@ -109,6 +109,7 @@ deviloid.net
 discord.heihachi.pw
 dpiui.reedlan.com
 drumkitx.com
+echostar.ddnsfree.com
 eddie4.nl
 edu.uifr.ru
 elitezones.ro
@@ -364,6 +365,7 @@ tracker.gigantino.net
 tracker.gigatorrents.ws
 tracker.gmi.gd
 tracker.grepler.com
+tracker.guguan.us.kg
 tracker.halfchub.club
 tracker.hama3.net
 tracker.healthcareindia.store
