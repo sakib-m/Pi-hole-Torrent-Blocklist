@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Oct 10 14:00:06 UTC 2025
+# Last Update - Sat Oct 11 02:00:06 UTC 2025
 # --------------------------------------------
-# Total domains: 519
+# Total domains: 520
 # --------------------------------------------
 # Total size: 9.5K
 # --------------------------------------------
@@ -215,6 +215,7 @@ publictracker.ch
 publictracker.xyz
 qg.lorzl.gq
 region.nl1.privex.cc
+rekcart.duckdns.org
 retracker.akado-ural.ru
 retracker.baikal-telecom.net
 retracker.hotplug.ru
