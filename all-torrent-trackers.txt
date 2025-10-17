@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Oct 16 14:00:06 UTC 2025
+# Last Update - Fri Oct 17 02:00:06 UTC 2025
 # --------------------------------------------
-# Total domains: 523
+# Total domains: 524
 # --------------------------------------------
 # Total size: 9.6K
 # --------------------------------------------
@@ -516,6 +516,7 @@ vps02.net.orel.ru
 w.wwwww.wtf
 wareztorrent.com
 wassermann.online
+wegkxfcivgx.ydns.eu
 wepzone.net
 worldboxingvideoarchive.com
 www.all4nothin.net
