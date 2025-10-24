@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Oct 24 02:00:07 UTC 2025
+# Last Update - Fri Oct 24 14:00:07 UTC 2025
 # --------------------------------------------
-# Total domains: 527
+# Total domains: 528
 # --------------------------------------------
-# Total size: 9.6K
+# Total size: 9.7K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -438,6 +438,7 @@ tracker.sloppyta.co
 tracker.srv00.com
 tracker.startwork.cv
 tracker.swateam.org.uk
+tracker.t-1.org
 tracker.tambovnet.org
 tracker.tamersunion.org
 tracker.tasvideos.org
