@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Dec  9 14:00:09 UTC 2025
+# Last Update - Wed Dec 10 02:00:08 UTC 2025
 # --------------------------------------------
-# Total domains: 537
+# Total domains: 539
 # --------------------------------------------
-# Total size: 9.8K
+# Total size: 9.9K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -150,6 +150,7 @@ k.avc.cx
 kanal-4.de
 kinorun.com
 koli.services
+laestrygonian.ooguy.com
 learnbits.me
 leet-tracker.moe
 line-net.ru
@@ -479,6 +480,7 @@ tracker.vectahosting.eu
 tracker.vulnix.sh
 tracker.waaa.moe
 tracker.wepzone.net
+tracker.x6c.co
 tracker.xiaoduola.xyz
 tracker.xn--djrq4gl4hvoi.top
 tracker.yemekyedim.com
