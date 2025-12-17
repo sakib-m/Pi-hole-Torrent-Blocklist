@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Dec 16 14:00:07 UTC 2025
+# Last Update - Wed Dec 17 02:00:08 UTC 2025
 # --------------------------------------------
-# Total domains: 541
+# Total domains: 542
 # --------------------------------------------
-# Total size: 9.9K
+# Total size: 10K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -172,6 +172,7 @@ mma-tracker.org
 movies.zsw.ca
 mvgroup.org
 nagios.tks.sumy.ua
+node01.trackerstatus.live
 novaopcj.icu
 ns-1.x-fins.com
 ns3109441.mypdns.org
