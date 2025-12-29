@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Dec 28 14:00:08 UTC 2025
+# Last Update - Mon Dec 29 02:00:08 UTC 2025
 # --------------------------------------------
-# Total domains: 545
+# Total domains: 546
 # --------------------------------------------
 # Total size: 10K
 # --------------------------------------------
@@ -333,6 +333,7 @@ tracker.bitcoinindia.space
 tracker.bittor.pw
 tracker.bittorrent.am
 tracker.blacksparrowmedia.net
+tracker.bluefrog.pw
 tracker.breizh.pm
 tracker.bt-hash.com
 tracker.bt4g.com
