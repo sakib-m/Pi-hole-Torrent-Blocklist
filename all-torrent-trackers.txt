@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Jan  4 14:00:07 UTC 2026
+# Last Update - Mon Jan  5 02:00:08 UTC 2026
 # --------------------------------------------
-# Total domains: 547
+# Total domains: 548
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -99,6 +99,7 @@ chihaya.toss.li
 cn.pcfreetime.com
 cny.fan
 code2chicken.nl
+colivioo.com
 concen.org
 cutiegirl.ru
 d40969.acod.regrucolo.ru
