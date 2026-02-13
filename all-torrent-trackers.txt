@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Feb 12 14:00:08 UTC 2026
+# Last Update - Fri Feb 13 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 558
+# Total domains: 559
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -412,6 +412,7 @@ tracker.leechers-paradise.org
 tracker.leechshield.link
 tracker.lelux.fi
 tracker.lintk.me
+tracker.manager.v6.navy
 tracker.maya.no.eu.org
 tracker.minglong.org
 tracker.mininova.org
