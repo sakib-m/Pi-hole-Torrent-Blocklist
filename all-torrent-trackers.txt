@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Feb 15 14:00:10 UTC 2026
+# Last Update - Mon Feb 16 02:00:10 UTC 2026
 # --------------------------------------------
-# Total domains: 559
+# Total domains: 560
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -175,6 +175,7 @@ mma-tracker.org
 movies.zsw.ca
 mvgroup.org
 nagios.tks.sumy.ua
+navegador.click
 node01.torrentonline.cc
 node01.trackerstatus.live
 node02.torrentonline.cc
