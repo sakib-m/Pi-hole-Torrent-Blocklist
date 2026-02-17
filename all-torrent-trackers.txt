@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Feb 16 14:00:10 UTC 2026
+# Last Update - Tue Feb 17 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 560
+# Total domains: 568
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -293,6 +293,7 @@ torrentclub.tech
 torrents-nn.cn
 torrentsmd.com
 torrenttracker.nwc.acsalaska.net
+torrentvpn.club
 torrentzilla.org
 tp.m-team.cc
 tr-rh-zhuqiy.dgj055.icu
@@ -395,6 +396,7 @@ tracker.healthcareindia.store
 tracker.hifimarket.in
 tracker.hifitechindia.com
 tracker.home.kmzs123.cn
+tracker.huadongblower.xyz
 tracker.iamhansen.xyz
 tracker.idocdn.com
 tracker.imgoingto.icu
@@ -415,6 +417,7 @@ tracker.lelux.fi
 tracker.lintk.me
 tracker.manager.v6.navy
 tracker.maya.no.eu.org
+tracker.memelords.xyz
 tracker.minglong.org
 tracker.mininova.org
 tracker.moeblog.cn
@@ -427,6 +430,7 @@ tracker.netmap.top
 tracker.nextrp.ru
 tracker.nitrix.me
 tracker.noobsubs.net
+tracker.novy.vip
 tracker.nyaa.uk
 tracker.nyap2p.com
 tracker.ololosh.space
@@ -449,10 +453,13 @@ tracker.privateseedbox.xyz
 tracker.publicbt.com
 tracker.publictracker.xyz
 tracker.pussytorrents.org
+tracker.puvvadi.net
 tracker.qingwa.pro
+tracker.qingwapt.org
 tracker.qu.ax
 tracker.renfei.net
 tracker.rescuecrew7.com
+tracker.riverarmy.xyz
 tracker.sbsub.com
 tracker.sharebro.in
 tracker.shkinev.me
@@ -538,6 +545,7 @@ trun.tom.ru
 tsundere.pw
 ttk2.nbaonlineservice.com
 u.wwwww.wtf
+uabits.today
 uatracker.net
 udp.tracker.projectk.org
 ultra.zt.ua
