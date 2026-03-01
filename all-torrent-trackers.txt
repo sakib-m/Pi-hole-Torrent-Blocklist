@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Feb 28 14:00:14 UTC 2026
+# Last Update - Sun Mar  1 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 571
+# Total domains: 572
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -317,6 +317,7 @@ tracker-de-2.cutie.dating
 tracker-udp.gbitt.info
 tracker-v6.zooki.xyz
 tracker-zhuqiy.dgj055.icu
+tracker-zhuqiy.xn--1r3au8b.space
 tracker.0o.is
 tracker.0x.tf
 tracker.0x7c0.com
