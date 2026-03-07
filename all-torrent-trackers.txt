@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Mar  6 14:00:07 UTC 2026
+# Last Update - Sat Mar  7 02:00:08 UTC 2026
 # --------------------------------------------
-# Total domains: 572
+# Total domains: 573
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -514,6 +514,7 @@ tracker.x6c.co
 tracker.xiaoduola.xyz
 tracker.xn--djrq4gl4hvoi.top
 tracker.yemekyedim.com
+tracker.yggleak.top
 tracker.ygsub.com
 tracker.yoshi210.com
 tracker.yume-hatsuyuki.moe
