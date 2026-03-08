@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Mar  7 14:00:07 UTC 2026
+# Last Update - Sun Mar  8 02:00:08 UTC 2026
 # --------------------------------------------
-# Total domains: 573
+# Total domains: 574
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -430,6 +430,7 @@ tracker.moxing.party
 tracker.msm8916.com
 tracker.mywaifu.best
 tracker.nanoha.org
+tracker.nekomi.cn
 tracker.netmap.top
 tracker.nextrp.ru
 tracker.nitrix.me
