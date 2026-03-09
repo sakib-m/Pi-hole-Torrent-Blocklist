@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Mar  8 14:00:07 UTC 2026
+# Last Update - Mon Mar  9 02:00:08 UTC 2026
 # --------------------------------------------
-# Total domains: 574
+# Total domains: 575
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -244,6 +244,7 @@ retracker01-msk-virt.corbina.net
 rt.tace.ru
 run.publictracker.xyz
 rutorrent.frontline-mod.com
+s1124554.ha012.t.mydomain.zone
 sd-161673.dedibox.fr
 secure.pow7.com
 seeders-paradise.org
