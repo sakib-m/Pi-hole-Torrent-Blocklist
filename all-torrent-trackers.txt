@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Mar  9 14:00:07 UTC 2026
+# Last Update - Tue Mar 10 02:00:08 UTC 2026
 # --------------------------------------------
-# Total domains: 575
+# Total domains: 576
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -555,6 +555,7 @@ u.wwwww.wtf
 uabits.today
 uatracker.net
 udp.tracker.projectk.org
+udp1.torrust-tracker-demo.com
 ultra.zt.ua
 us-tracker.publictracker.xyz
 utracker.ghostchu-services.top
