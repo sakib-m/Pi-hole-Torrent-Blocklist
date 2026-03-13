@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Mar 12 14:00:08 UTC 2026
+# Last Update - Fri Mar 13 02:00:08 UTC 2026
 # --------------------------------------------
-# Total domains: 576
+# Total domains: 578
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -11,6 +11,7 @@
 # --------------------------------------------
 # Open an issue for whitelisting.
 # --------------------------------------------
+004430.xyz
 0123456789nonexistent.com
 0205.uptm.ch
 0d.kebhana.mx
@@ -319,6 +320,7 @@ tracker-udp.gbitt.info
 tracker-v6.zooki.xyz
 tracker-zhuqiy.dgj055.icu
 tracker-zhuqiy.xn--1r3au8b.space
+tracker.004430.xyz
 tracker.0o.is
 tracker.0x.tf
 tracker.0x7c0.com
