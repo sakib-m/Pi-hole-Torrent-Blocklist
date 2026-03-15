@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Mar 14 14:00:06 UTC 2026
+# Last Update - Sun Mar 15 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 578
+# Total domains: 582
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -246,6 +246,9 @@ rt.tace.ru
 run.publictracker.xyz
 rutorrent.frontline-mod.com
 s1124554.ha012.t.mydomain.zone
+s1130638.ha016.t.mydomain.zone
+s1130639.ha009.t.mydomain.zone
+s1130642.ha014.t.mydomain.zone
 sd-161673.dedibox.fr
 secure.pow7.com
 seeders-paradise.org
@@ -572,6 +575,7 @@ wassermann.online
 wegkxfcivgx.ydns.eu
 wepzone.net
 worldboxingvideoarchive.com
+wsad.run.place
 www.2600.com
 www.all4nothin.net
 www.genesis-sp.org
