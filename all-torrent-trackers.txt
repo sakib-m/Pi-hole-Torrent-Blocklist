@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Mar 19 14:00:08 UTC 2026
+# Last Update - Fri Mar 20 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 585
+# Total domains: 590
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -138,6 +138,7 @@ hdreactor.org
 hificode.in
 highteahop.top
 home.yxgz.club
+http1.torrust-tracker-demo.com
 ibksturm.synology.me
 inferno.demonoid.is
 inferno.demonoid.pw
@@ -229,6 +230,7 @@ public.publictracker.xyz
 public.tracker.vraphim.com
 publictracker.ch
 publictracker.xyz
+pybittrack.retiolus.net
 qg.lorzl.gq
 region.nl1.privex.cc
 rekcart.duckdns.org
@@ -380,6 +382,7 @@ tracker.eddie4.nl
 tracker.electro-torrent.pl
 tracker.etree.org
 tracker.ex.ua
+tracker.exe.in.th
 tracker.expli.top
 tracker.file09.com
 tracker.filemail.com
@@ -545,6 +548,7 @@ tracker2.christianbro.pw
 tracker2.dler.org
 tracker2.indowebster.com
 tracker2.itzmx.com
+tracker3.ctix.cn
 tracker3.itzmx.com
 tracker3.t-1.org
 tracker4.itzmx.com
@@ -584,6 +588,7 @@ www.all4nothin.net
 www.genesis-sp.org
 www.loushao.net
 www.midea123.z-media.com.cn
+www.nartlof.com
 www.torrent.eu.org
 www.torrentsnipe.info
 www.wareztorrent.com
