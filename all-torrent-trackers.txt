@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Mar 22 14:00:07 UTC 2026
+# Last Update - Mon Mar 23 02:00:13 UTC 2026
 # --------------------------------------------
-# Total domains: 591
+# Total domains: 594
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -86,6 +86,7 @@ bt1.xxxxbt.cc
 bt2.54new.com
 bt2.edwardk.info
 bubu.mapfactor.com
+bughome.de
 buny.uk
 burmese.app
 bvarf.tracker.sh
@@ -439,6 +440,7 @@ tracker.mininova.org
 tracker.moeblog.cn
 tracker.moeking.me
 tracker.moxing.party
+tracker.mrhei.tech
 tracker.msm8916.com
 tracker.mywaifu.best
 tracker.nanoha.org
@@ -575,6 +577,7 @@ v74853.hosted-by-vdsina.com
 valakas.rollo.dnsabr.com
 vibe.community
 vpn.flying-datacenter.de
+vps-c1adea63.vps.ovh.net
 vps02.net.orel.ru
 w.wwwww.wtf
 wareztorrent.com
