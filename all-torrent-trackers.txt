@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Apr  1 14:00:08 UTC 2026
+# Last Update - Thu Apr  2 02:00:09 UTC 2026
 # --------------------------------------------
-# Total domains: 597
+# Total domains: 599
 # --------------------------------------------
-# Total size: 11K
+# Total size: 12K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -454,6 +454,7 @@ tracker.nitrix.me
 tracker.noobsubs.net
 tracker.novy.vip
 tracker.nyaa.uk
+tracker.nyaa.vc
 tracker.nyap2p.com
 tracker.ololosh.space
 tracker.open-internet.nl
@@ -528,6 +529,7 @@ tracker.vectahosting.eu
 tracker.vulnix.sh
 tracker.waaa.moe
 tracker.wepzone.net
+tracker.wildkat.net
 tracker.x6c.co
 tracker.xiaoduola.xyz
 tracker.xn--djrq4gl4hvoi.top
