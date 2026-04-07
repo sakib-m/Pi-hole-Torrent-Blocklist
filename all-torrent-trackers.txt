@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Apr  6 14:00:07 UTC 2026
+# Last Update - Tue Apr  7 02:00:06 UTC 2026
 # --------------------------------------------
-# Total domains: 602
+# Total domains: 604
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -307,6 +307,7 @@ torrent.tracker.durukanbal.com
 torrentclub.online
 torrentclub.tech
 torrents-nn.cn
+torrents.tmtime.dev
 torrentsmd.com
 torrenttracker.nwc.acsalaska.net
 torrentvpn.club
@@ -417,6 +418,7 @@ tracker.hama3.net
 tracker.healthcareindia.store
 tracker.hifimarket.in
 tracker.hifitechindia.com
+tracker.hismz.cn
 tracker.home.kmzs123.cn
 tracker.huadongblower.xyz
 tracker.iamhansen.xyz
