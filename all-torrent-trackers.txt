@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Apr 14 14:00:07 UTC 2026
+# Last Update - Wed Apr 15 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 609
+# Total domains: 612
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -44,6 +44,7 @@ anidex.moe
 anna.bt.bontal.net
 api.bitumconference.ru
 api.ipv4online.uk
+archive.torrentonline.cc
 aruacfilmes.com.br
 asger.xyz
 asiatorrent.ddns.net
@@ -197,6 +198,7 @@ ns349743.ip-91-121-106.eu
 ns389251.ovh.net
 ns575949.ip-51-222-82.net
 nyaa.tracker.wf
+obey.torrentonline.cc
 omg.wtftrackr.xyz
 open-tracker.demonoid.ch
 open-v6.demonoid.ch
@@ -598,6 +600,7 @@ wareztorrent.com
 wassermann.online
 wegkxfcivgx.ydns.eu
 wepzone.net
+whybother.torrentonline.cc
 wolf.parrot.run
 worldboxingvideoarchive.com
 wsad.run.place
