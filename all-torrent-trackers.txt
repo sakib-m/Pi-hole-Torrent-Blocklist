@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Apr 28 14:00:07 UTC 2026
+# Last Update - Wed Apr 29 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 614
+# Total domains: 615
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -594,6 +594,7 @@ v74853.hosted-by-vdsina.com
 valakas.rollo.dnsabr.com
 vibe.community
 vito-tracker.duckdns.org
+vito-tracker.space
 vpn.flying-datacenter.de
 vps-c1adea63.vps.ovh.net
 vps02.net.orel.ru
