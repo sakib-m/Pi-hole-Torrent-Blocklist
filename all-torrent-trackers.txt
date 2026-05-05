@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon May  4 14:00:08 UTC 2026
+# Last Update - Tue May  5 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 615
+# Total domains: 617
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -445,6 +445,7 @@ tracker.kuroy.me
 tracker.leechers-paradise.org
 tracker.leechshield.link
 tracker.lelux.fi
+tracker.lenition.de
 tracker.lintk.me
 tracker.manager.v6.navy
 tracker.maya.no.eu.org
@@ -494,6 +495,7 @@ tracker.qu.ax
 tracker.renfei.net
 tracker.rescuecrew7.com
 tracker.riverarmy.xyz
+tracker.samcze.pl
 tracker.sbsub.com
 tracker.sharebro.in
 tracker.shkinev.me
