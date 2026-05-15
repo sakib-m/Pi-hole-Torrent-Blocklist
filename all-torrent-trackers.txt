@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu May 14 14:00:06 UTC 2026
+# Last Update - Fri May 15 02:00:06 UTC 2026
 # --------------------------------------------
-# Total domains: 622
+# Total domains: 624
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -328,6 +328,7 @@ tr-zhuqiy-2.dgj055.icu
 tr.abiir.top
 tr.abir.ga
 tr.bangumi.moe
+tr.btube3.com
 tr.cili001.com
 tr.highstar.shop
 tr.kxmp.cf
@@ -359,6 +360,7 @@ tracker.altrosky.nl
 tracker.anirena.com
 tracker.anonwebz.xyz
 tracker.army
+tracker.auctor.tv
 tracker.baltracker.net
 tracker.beeimg.com
 tracker.belmult.online
