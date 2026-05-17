@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat May 16 14:00:07 UTC 2026
+# Last Update - Sun May 17 02:00:06 UTC 2026
 # --------------------------------------------
-# Total domains: 624
+# Total domains: 625
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -599,6 +599,7 @@ udp1.torrust-tracker-demo.com
 ultra.zt.ua
 us-tracker.publictracker.xyz
 utracker.ghostchu-services.top
+v6.vito-tracker.space
 v74853.hosted-by-vdsina.com
 valakas.rollo.dnsabr.com
 vibe.community
