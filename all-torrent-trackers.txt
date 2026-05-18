@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun May 17 14:00:06 UTC 2026
+# Last Update - Mon May 18 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 625
+# Total domains: 627
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -41,6 +41,7 @@ admin.videoenpoche.info
 adminion.n-blade.ru
 all4nothin.net
 anidex.moe
+anime-tracker.aruku.kro.kr
 anna.bt.bontal.net
 api.bitumconference.ru
 api.ipv4online.uk
@@ -360,6 +361,7 @@ tracker.altrosky.nl
 tracker.anirena.com
 tracker.anonwebz.xyz
 tracker.army
+tracker.aruku.ovh
 tracker.auctor.tv
 tracker.baltracker.net
 tracker.beeimg.com
