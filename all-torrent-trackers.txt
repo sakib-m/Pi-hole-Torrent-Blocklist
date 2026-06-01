@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun May 31 14:00:07 UTC 2026
+# Last Update - Mon Jun  1 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 629
+# Total domains: 632
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -14,6 +14,7 @@
 004430.xyz
 0123456789nonexistent.com
 0205.uptm.ch
+021912.xyz
 0d.kebhana.mx
 1.tracker.eu.org
 1337.abcvg.info
@@ -52,6 +53,7 @@ asiatorrent.ddns.net
 asiatorrent.giize.com
 atrack.pow7.com
 baibako.tv
+banananetwork.qzz.io
 bandito.byterunner.io
 bclearning.top
 benouworldtrip.fr
@@ -229,6 +231,7 @@ opentracker.acgnx.se
 opentracker.i2p.rocks
 opentracker.io
 opentracker.xyz
+orgtgju.org
 p4p.arenabg.com
 passpulse.net
 peerfect.org
