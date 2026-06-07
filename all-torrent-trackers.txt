@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Jun  6 14:00:06 UTC 2026
+# Last Update - Sun Jun  7 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 634
+# Total domains: 636
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -371,6 +371,7 @@ tracker.auctor.tv
 tracker.baltracker.net
 tracker.beeimg.com
 tracker.belmult.online
+tracker.bigbewbs.online
 tracker.birkenwald.de
 tracker.bitcoinindia.space
 tracker.bittor.pw
@@ -399,6 +400,7 @@ tracker.dhitechnical.com
 tracker.dler.com
 tracker.dler.org
 tracker.dmcomic.org
+tracker.dorcus.digital
 tracker.ds.is
 tracker.ducks.party
 tracker.dutchtracking.nl
