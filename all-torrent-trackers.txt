@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Jun  7 14:00:06 UTC 2026
+# Last Update - Mon Jun  8 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 636
+# Total domains: 637
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -176,6 +176,7 @@ ln.mtahost.co
 loushao.net
 lucke.fenesisu.moe
 mail.realliferpg.de
+mail.segso.net
 mail2.zelenaya.net
 martin-gebhardt.eu
 masters-tb.com
