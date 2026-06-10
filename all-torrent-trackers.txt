@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Jun  9 14:00:07 UTC 2026
+# Last Update - Wed Jun 10 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 637
+# Total domains: 638
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -120,6 +120,7 @@ d40969.acod.regrucolo.ru
 data-bg.net
 datascene.net
 daveking.com
+de7c0e7a567e.sn.mynetname.net
 denis.stalker.upeer.me
 derpyradio.net
 deviloid.net
