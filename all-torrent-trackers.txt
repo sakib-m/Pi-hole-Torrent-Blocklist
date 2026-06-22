@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Jun 21 14:00:08 UTC 2026
+# Last Update - Mon Jun 22 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 639
+# Total domains: 640
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -151,6 +151,7 @@ hdreactor.org
 hificode.in
 highteahop.top
 home.yxgz.club
+ht.therarbg.to
 http1.torrust-tracker-demo.com
 ibksturm.synology.me
 inferno.demonoid.is
