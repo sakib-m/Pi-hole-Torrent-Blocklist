@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Jul  2 14:00:08 UTC 2026
+# Last Update - Fri Jul  3 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 644
+# Total domains: 647
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -649,6 +649,9 @@ xwt-classics.net
 xxxtor.com
 yuki.bt.bontal.net
 yuptracker-eu.gaijinent.com
+yuptracker-sa.gaijinent.com
+yuptracker-us.gaijinent.com
+yuptracker.gaijinent.com
 yuwabits.net
 z.mercax.com
 zephir.monocul.us
