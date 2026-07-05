@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Jul  4 14:00:07 UTC 2026
+# Last Update - Sun Jul  5 02:00:08 UTC 2026
 # --------------------------------------------
-# Total domains: 647
+# Total domains: 648
 # --------------------------------------------
-# Total size: 12K
+# Total size: 13K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -239,6 +239,7 @@ orgtgju.org
 p4p.arenabg.com
 passpulse.net
 peerfect.org
+php-bobcat.wasmer.app
 potuk.com
 pow7.com
 prestige.minimafia.nl
