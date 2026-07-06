@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Jul  5 14:00:08 UTC 2026
+# Last Update - Mon Jul  6 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 648
+# Total domains: 650
 # --------------------------------------------
 # Total size: 13K
 # --------------------------------------------
@@ -240,6 +240,7 @@ p4p.arenabg.com
 passpulse.net
 peerfect.org
 php-bobcat.wasmer.app
+play.aimisayo.com
 potuk.com
 pow7.com
 prestige.minimafia.nl
@@ -483,6 +484,7 @@ tracker.nanoha.org
 tracker.nekomi.cn
 tracker.netmap.top
 tracker.nextrp.ru
+tracker.nexusstream.eu
 tracker.nitrix.me
 tracker.noobsubs.net
 tracker.novy.vip
