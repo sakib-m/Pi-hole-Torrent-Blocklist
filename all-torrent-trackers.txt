@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Jul  7 14:00:08 UTC 2026
+# Last Update - Wed Jul  8 02:00:14 UTC 2026
 # --------------------------------------------
-# Total domains: 468
+# Total domains: 458
 # --------------------------------------------
-# Total size: 8.5K
+# Total size: 8.3K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -29,7 +29,6 @@
 9.rarbg.to
 a.leopard-raws.org
 aaa.army
-aboutbeautifulgallopinghorsesinthegreenpasture.online
 academic-p2p.appspot.com
 acg.rip
 adm.category5.tv
@@ -44,6 +43,7 @@ api.bitumconference.ru
 archive.torrentonline.cc
 aruacfilmes.com.br
 asger.xyz
+asiatorrent.giize.com
 atrack.pow7.com
 baibako.tv
 banananetwork.qzz.io
@@ -73,11 +73,9 @@ bt.edwardk.info
 bt.firebit.org
 bt.hliang.com
 bt.okmp3.ru
-bt.poletracker.org
 bt.pusacg.org
 bt.zlofenix.org
 bt1.archive.org
-bt1.xxxxbt.cc
 bt2.54new.com
 bt2.archive.org
 bt2.edwardk.info
@@ -186,8 +184,6 @@ opentracker.xyz
 orgtgju.org
 p4p.arenabg.com
 peerfect.org
-php-bobcat.wasmer.app
-play.aimisayo.com
 potuk.com
 pow7.com
 prestige.minimafia.nl
@@ -199,7 +195,6 @@ publictracker.ch
 publictracker.xyz
 pybittrack.retiolus.net
 qg.lorzl.gq
-rekcart.duckdns.org
 retracker.akado-ural.ru
 retracker.baikal-telecom.net
 retracker.hotplug.ru
@@ -218,7 +213,6 @@ secure.pow7.com
 seeders-paradise.org
 shadowshq.eddie4.nl
 shadowshq.yi.org
-shahidrazi.online
 share.camoe.cn
 share.hkg-fansub.info
 shnflac.net
@@ -250,7 +244,6 @@ torrent.mp3quran.net
 torrent.nwps.ws
 torrent.resonatingmedia.com
 torrent.tdjs.tech
-torrent.tracker.durukanbal.com
 torrentclub.online
 torrentclub.tech
 torrents-nn.cn
@@ -260,10 +253,10 @@ torrenttracker.nwc.acsalaska.net
 torrentzilla.org
 tp.m-team.cc
 tr.abiir.top
+tr.abir.ga
 tr.bangumi.moe
 tr.btube3.com
 tr.cili001.com
-tr.highstar.shop
 tr.kxmp.cf
 tr.nyacat.pw
 tr.ready4.icu
@@ -272,7 +265,6 @@ tr2.ysagin.top
 tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
 tracker-v6.zooki.xyz
-tracker.004430.xyz
 tracker.0o.is
 tracker.0x.tf
 tracker.36dm.com
@@ -311,7 +303,6 @@ tracker.dler.com
 tracker.dler.org
 tracker.dmcomic.org
 tracker.ds.is
-tracker.ducks.party
 tracker.dutchtracking.nl
 tracker.dyne.org
 tracker.e-utp.net
@@ -335,13 +326,11 @@ tracker.gmi.gd
 tracker.grepler.com
 tracker.halfchub.club
 tracker.hama3.net
-tracker.hismz.cn
 tracker.iamhansen.xyz
 tracker.idocdn.com
 tracker.ilibr.org
 tracker.imgoingto.icu
 tracker.internetwarriors.net
-tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
 tracker.isbigdick.cc.cd
 tracker.kali.org
@@ -466,6 +455,7 @@ wareztorrent.com
 wassermann.online
 whybother.torrentonline.cc
 worldboxingvideoarchive.com
+www.genesis-sp.org
 www.loushao.net
 www.midea123.z-media.com.cn
 www.torrent.eu.org
