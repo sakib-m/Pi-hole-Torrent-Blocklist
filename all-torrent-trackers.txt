@@ -1,21 +1,19 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Jul  8 14:00:09 UTC 2026
+# Last Update - Thu Jul  9 02:00:13 UTC 2026
 # --------------------------------------------
-# Total domains: 458
+# Total domains: 439
 # --------------------------------------------
-# Total size: 8.3K
+# Total size: 7.9K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 # Open an issue for whitelisting.
 # --------------------------------------------
 004430.xyz
-0123456789nonexistent.com
 0205.uptm.ch
 021912.xyz
-0d.kebhana.mx
 1.tracker.eu.org
 1337.abcvg.info
 2.tracker.eu.org
@@ -43,7 +41,6 @@ api.bitumconference.ru
 archive.torrentonline.cc
 aruacfilmes.com.br
 asger.xyz
-asiatorrent.giize.com
 atrack.pow7.com
 baibako.tv
 banananetwork.qzz.io
@@ -80,7 +77,6 @@ bt2.54new.com
 bt2.archive.org
 bt2.edwardk.info
 bubu.mapfactor.com
-buny.uk
 camera.lei001.com
 carbon-bonsai-621.appspot.com
 cdn-1.gamecoast.org
@@ -118,7 +114,6 @@ git.vulnix.sh
 grifon.info
 h4.trakx.nibba.trade
 hdreactor.org
-home.yxgz.club
 ht.therarbg.to
 inferno.demonoid.is
 inferno.demonoid.pw
@@ -128,7 +123,6 @@ ipv4announce.sktorrent.eu
 ipv6.tracker.harry.lu
 ipv6.tracker.zerobytes.xyz
 jsb.by
-jvavav.com
 kanal-4.de
 kinorun.com
 koli.services
@@ -175,7 +169,6 @@ open.stealth.si
 open.touki.ru
 open.tracker.cl
 open.tracker.ink
-open.trackerlist.xyz
 opentor.org
 opentracker.acgnx.com
 opentracker.acgnx.se
@@ -210,13 +203,10 @@ rt.tace.ru
 rutorrent.frontline-mod.com
 sd-161673.dedibox.fr
 secure.pow7.com
-seeders-paradise.org
 shadowshq.eddie4.nl
 shadowshq.yi.org
 share.camoe.cn
-share.hkg-fansub.info
 shnflac.net
-shubt.net
 siambt.com
 sukebei.tracker.wf
 t.213891.xyz
@@ -239,11 +229,11 @@ thevault.bz
 tk.mabo.ltd
 torrent-team.net
 torrent.arjlover.net
-torrent.hificode.in
 torrent.mp3quran.net
 torrent.nwps.ws
 torrent.resonatingmedia.com
 torrent.tdjs.tech
+torrent.tracker.durukanbal.com
 torrentclub.online
 torrentclub.tech
 torrents-nn.cn
@@ -301,7 +291,6 @@ tracker.ddunlimited.net
 tracker.dhitechnical.com
 tracker.dler.com
 tracker.dler.org
-tracker.dmcomic.org
 tracker.ds.is
 tracker.dutchtracking.nl
 tracker.dyne.org
@@ -339,13 +328,11 @@ tracker.kuroy.me
 tracker.leechers-paradise.org
 tracker.leechshield.link
 tracker.lelux.fi
-tracker.lintk.me
 tracker.manager.itislove.cz
 tracker.manager.v6.navy
 tracker.minglong.org
 tracker.mininova.org
 tracker.moeking.me
-tracker.moxing.party
 tracker.msm8916.com
 tracker.mywaifu.best
 tracker.nanoha.org
@@ -404,17 +391,14 @@ tracker.trackarr.org
 tracker.trackerfix.com
 tracker.trackton.ga
 tracker.tricitytorrents.com
-tracker.tritan.gg
 tracker.tryhackx.org
 tracker.tvunderground.org.ru
 tracker.uw0.xyz
 tracker.v6speed.org
-tracker.vanitycore.co
 tracker.vectahosting.eu
 tracker.vulnix.sh
 tracker.waaa.moe
 tracker.wildkat.net
-tracker.xiaoduola.xyz
 tracker.xn--djrq4gl4hvoi.top
 tracker.yemekyedim.com
 tracker.ygsub.com
@@ -436,7 +420,6 @@ tracker3.itzmx.com
 tracker4.itzmx.com
 tracker6.dler.org
 tracker6.lelux.fi
-tracker810.xyz
 trakx.herokuapp.com
 tribalmixes.com
 trun.tom.ru
@@ -455,11 +438,9 @@ wareztorrent.com
 wassermann.online
 whybother.torrentonline.cc
 worldboxingvideoarchive.com
-www.genesis-sp.org
 www.loushao.net
 www.midea123.z-media.com.cn
 www.torrent.eu.org
-www.torrentsnipe.info
 www.wareztorrent.com
 xwt-classics.net
 xxxtor.com
