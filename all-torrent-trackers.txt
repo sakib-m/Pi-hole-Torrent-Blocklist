@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Jul  9 14:00:10 UTC 2026
+# Last Update - Fri Jul 10 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 439
+# Total domains: 445
 # --------------------------------------------
-# Total size: 7.9K
+# Total size: 8.1K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -27,6 +27,7 @@
 9.rarbg.to
 a.leopard-raws.org
 aaa.army
+aboutbeautifulgallopinghorsesinthegreenpasture.online
 academic-p2p.appspot.com
 acg.rip
 adm.category5.tv
@@ -97,6 +98,7 @@ deviloid.net
 discord.heihachi.pw
 dpiui.reedlan.com
 drumkitx.com
+ds32244.seedhost.eu
 eddie4.nl
 edu.uifr.ru
 elitezones.ro
@@ -188,6 +190,7 @@ publictracker.ch
 publictracker.xyz
 pybittrack.retiolus.net
 qg.lorzl.gq
+rekcart.duckdns.org
 retracker.akado-ural.ru
 retracker.baikal-telecom.net
 retracker.hotplug.ru
@@ -205,6 +208,7 @@ sd-161673.dedibox.fr
 secure.pow7.com
 shadowshq.eddie4.nl
 shadowshq.yi.org
+shahidrazi.online
 share.camoe.cn
 shnflac.net
 siambt.com
@@ -247,6 +251,7 @@ tr.abir.ga
 tr.bangumi.moe
 tr.btube3.com
 tr.cili001.com
+tr.highstar.shop
 tr.kxmp.cf
 tr.nyacat.pw
 tr.ready4.icu
@@ -292,6 +297,7 @@ tracker.dhitechnical.com
 tracker.dler.com
 tracker.dler.org
 tracker.ds.is
+tracker.ducks.party
 tracker.dutchtracking.nl
 tracker.dyne.org
 tracker.e-utp.net
