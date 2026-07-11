@@ -1,19 +1,21 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Jul 10 14:00:08 UTC 2026
+# Last Update - Sat Jul 11 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 445
+# Total domains: 461
 # --------------------------------------------
-# Total size: 8.1K
+# Total size: 8.4K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 # Open an issue for whitelisting.
 # --------------------------------------------
 004430.xyz
+0123456789nonexistent.com
 0205.uptm.ch
 021912.xyz
+0d.kebhana.mx
 1.tracker.eu.org
 1337.abcvg.info
 2.tracker.eu.org
@@ -71,6 +73,7 @@ bt.edwardk.info
 bt.firebit.org
 bt.hliang.com
 bt.okmp3.ru
+bt.poletracker.org
 bt.pusacg.org
 bt.zlofenix.org
 bt1.archive.org
@@ -78,6 +81,7 @@ bt2.54new.com
 bt2.archive.org
 bt2.edwardk.info
 bubu.mapfactor.com
+buny.uk
 camera.lei001.com
 carbon-bonsai-621.appspot.com
 cdn-1.gamecoast.org
@@ -116,6 +120,7 @@ git.vulnix.sh
 grifon.info
 h4.trakx.nibba.trade
 hdreactor.org
+home.yxgz.club
 ht.therarbg.to
 inferno.demonoid.is
 inferno.demonoid.pw
@@ -125,6 +130,7 @@ ipv4announce.sktorrent.eu
 ipv6.tracker.harry.lu
 ipv6.tracker.zerobytes.xyz
 jsb.by
+jvavav.com
 kanal-4.de
 kinorun.com
 koli.services
@@ -206,13 +212,17 @@ rt.tace.ru
 rutorrent.frontline-mod.com
 sd-161673.dedibox.fr
 secure.pow7.com
+seeders-paradise.org
 shadowshq.eddie4.nl
 shadowshq.yi.org
 shahidrazi.online
 share.camoe.cn
+share.hkg-fansub.info
 shnflac.net
+shubt.net
 siambt.com
 sukebei.tracker.wf
+supertracker.cc.cd
 t.213891.xyz
 t.acg.rip
 t.nyaatracker.com
@@ -233,6 +243,7 @@ thevault.bz
 tk.mabo.ltd
 torrent-team.net
 torrent.arjlover.net
+torrent.hificode.in
 torrent.mp3quran.net
 torrent.nwps.ws
 torrent.resonatingmedia.com
@@ -311,6 +322,7 @@ tracker.files.fm
 tracker.flashtorrents.org
 tracker.flatuslifir.is
 tracker.fnix.net
+tracker.foreverpirates.co
 tracker.fortu.io
 tracker.frozen-layer.net
 tracker.funfile.org
@@ -339,6 +351,7 @@ tracker.manager.v6.navy
 tracker.minglong.org
 tracker.mininova.org
 tracker.moeking.me
+tracker.moxing.party
 tracker.msm8916.com
 tracker.mywaifu.best
 tracker.nanoha.org
@@ -426,6 +439,7 @@ tracker3.itzmx.com
 tracker4.itzmx.com
 tracker6.dler.org
 tracker6.lelux.fi
+tracker810.xyz
 trakx.herokuapp.com
 tribalmixes.com
 trun.tom.ru
@@ -444,9 +458,11 @@ wareztorrent.com
 wassermann.online
 whybother.torrentonline.cc
 worldboxingvideoarchive.com
+www.genesis-sp.org
 www.loushao.net
 www.midea123.z-media.com.cn
 www.torrent.eu.org
+www.torrentsnipe.info
 www.wareztorrent.com
 xwt-classics.net
 xxxtor.com
