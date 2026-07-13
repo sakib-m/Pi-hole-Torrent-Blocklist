@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Jul 12 14:00:08 UTC 2026
+# Last Update - Mon Jul 13 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 467
+# Total domains: 471
 # --------------------------------------------
 # Total size: 8.5K
 # --------------------------------------------
@@ -90,6 +90,7 @@ cdn-2.gamecoast.org
 chanchan.uchuu.co.uk
 chihaya.de
 chihaya.toss.li
+cn.pcfreetime.com
 code2chicken.nl
 coeus.torrentonline.cc
 concen.org
@@ -187,6 +188,7 @@ opentracker.xyz
 orgtgju.org
 p4p.arenabg.com
 peerfect.org
+php-bobcat.wasmer.app
 potuk.com
 pow7.com
 prestige.minimafia.nl
@@ -279,6 +281,7 @@ tracker.0x.tf
 tracker.36dm.com
 tracker.7471.top
 tracker.acgnx.se
+tracker.adgk.net
 tracker.aletorrenty.pl
 tracker.ali213.net
 tracker.altrosky.nl
@@ -401,6 +404,7 @@ tracker.tamersunion.org
 tracker.tasvideos.org
 tracker.teambelgium.net
 tracker.theempire.bz
+tracker.theoks.net
 tracker.therarbg.to
 tracker.tiny-vps.com
 tracker.tntvillage.scambioetico.org
