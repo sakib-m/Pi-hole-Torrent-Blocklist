@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Jul 14 14:00:09 UTC 2026
+# Last Update - Wed Jul 15 02:00:08 UTC 2026
 # --------------------------------------------
-# Total domains: 471
+# Total domains: 474
 # --------------------------------------------
-# Total size: 8.5K
+# Total size: 8.6K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -180,6 +180,7 @@ open.stealth.si
 open.touki.ru
 open.tracker.cl
 open.tracker.ink
+open.trackerlist.xyz
 opentor.org
 opentracker.acgnx.com
 opentracker.acgnx.se
@@ -345,6 +346,7 @@ tracker.idocdn.com
 tracker.ilibr.org
 tracker.imgoingto.icu
 tracker.internetwarriors.net
+tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
 tracker.isbigdick.cc.cd
 tracker.kali.org
@@ -423,6 +425,7 @@ tracker.tryhackx.org
 tracker.tvunderground.org.ru
 tracker.uw0.xyz
 tracker.v6speed.org
+tracker.vanitycore.co
 tracker.vectahosting.eu
 tracker.vulnix.sh
 tracker.waaa.moe
