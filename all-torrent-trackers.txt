@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Jul 17 14:00:08 UTC 2026
+# Last Update - Sat Jul 18 02:00:08 UTC 2026
 # --------------------------------------------
-# Total domains: 474
+# Total domains: 475
 # --------------------------------------------
 # Total size: 8.6K
 # --------------------------------------------
@@ -141,6 +141,7 @@ leet-tracker.moe
 line-net.ru
 ln.mtahost.co
 loushao.net
+lucke.fenesisu.moe
 mail.realliferpg.de
 mail.segso.net
 mail2.zelenaya.net
