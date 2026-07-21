@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Jul 21 02:00:07 UTC 2026
+# Last Update - Tue Jul 21 14:00:08 UTC 2026
 # --------------------------------------------
-# Total domains: 475
+# Total domains: 476
 # --------------------------------------------
 # Total size: 8.6K
 # --------------------------------------------
@@ -106,6 +106,7 @@ dpiui.reedlan.com
 drumkitx.com
 ds32244.seedhost.eu
 eddie4.nl
+edgev.duckdns.org
 edu.uifr.ru
 elitezones.ro
 engplus.ru
