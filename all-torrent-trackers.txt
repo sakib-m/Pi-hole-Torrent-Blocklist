@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Jul 24 14:00:07 UTC 2026
+# Last Update - Sat Jul 25 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 478
+# Total domains: 479
 # --------------------------------------------
 # Total size: 8.7K
 # --------------------------------------------
@@ -44,6 +44,7 @@ api.bitumconference.ru
 archive.torrentonline.cc
 aruacfilmes.com.br
 asger.xyz
+asiatorrent.giize.com
 atrack.pow7.com
 baibako.tv
 banananetwork.qzz.io
