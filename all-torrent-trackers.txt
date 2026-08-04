@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Aug  3 14:00:06 UTC 2026
+# Last Update - Tue Aug  4 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 484
+# Total domains: 487
 # --------------------------------------------
 # Total size: 8.8K
 # --------------------------------------------
@@ -312,6 +312,7 @@ tracker.btnext.com
 tracker.btsync.gq
 tracker.bug38.com
 tracker.bz
+tracker.cangku.moe
 tracker.cn.nyaa.net
 tracker.coppersurfer.tk
 tracker.corpscorp.online
@@ -364,6 +365,7 @@ tracker.kuroy.me
 tracker.leechers-paradise.org
 tracker.leechshield.link
 tracker.lelux.fi
+tracker.lenition.de
 tracker.lintk.me
 tracker.manager.itislove.cz
 tracker.manager.v6.navy
@@ -431,6 +433,7 @@ tracker.trackarr.org
 tracker.trackerfix.com
 tracker.trackton.ga
 tracker.tricitytorrents.com
+tracker.tritan.gg
 tracker.tryhackx.org
 tracker.tvunderground.org.ru
 tracker.uw0.xyz
