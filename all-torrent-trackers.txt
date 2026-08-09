@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Aug  8 14:00:06 UTC 2026
+# Last Update - Sun Aug  9 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 491
+# Total domains: 492
 # --------------------------------------------
 # Total size: 8.9K
 # --------------------------------------------
@@ -320,6 +320,7 @@ tracker.corpscorp.online
 tracker.cubonegro.org
 tracker.cyber-hub.net
 tracker.cyberia.is
+tracker.cynma.tv
 tracker.ddunlimited.net
 tracker.dhitechnical.com
 tracker.dler.com
