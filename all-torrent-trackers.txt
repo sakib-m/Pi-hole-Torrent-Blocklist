@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Aug 12 14:00:07 UTC 2026
+# Last Update - Thu Aug 13 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 492
+# Total domains: 493
 # --------------------------------------------
 # Total size: 8.9K
 # --------------------------------------------
@@ -477,6 +477,7 @@ trun.tom.ru
 tsundere.pw
 u.wwwww.wtf
 uatracker.net
+udp.tracker.linvk.com
 ultra.zt.ua
 us-tracker.publictracker.xyz
 v6.vito-tracker.space
