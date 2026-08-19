@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Aug 18 14:00:17 UTC 2026
+# Last Update - Wed Aug 19 02:00:08 UTC 2026
 # --------------------------------------------
-# Total domains: 461
+# Total domains: 467
 # --------------------------------------------
-# Total size: 8.3K
+# Total size: 8.4K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -46,6 +46,7 @@ asiatorrent.giize.com
 atrack.pow7.com
 baibako.tv
 bclearning.top
+bdremux.club
 benouworldtrip.fr
 big-boss-tracker.net
 bit-hdtv.com
@@ -322,6 +323,7 @@ tracker.filepit.to
 tracker.files.fm
 tracker.flashtorrents.org
 tracker.flatuslifir.is
+tracker.fnix.net
 tracker.foreverpirates.co
 tracker.fortu.io
 tracker.frozen-layer.net
@@ -338,6 +340,7 @@ tracker.idocdn.com
 tracker.ilibr.org
 tracker.imgoingto.icu
 tracker.internetwarriors.net
+tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
 tracker.k.vu
 tracker.kali.org
@@ -397,6 +400,7 @@ tracker.tamersunion.org
 tracker.tasvideos.org
 tracker.teambelgium.net
 tracker.theempire.bz
+tracker.theoks.net
 tracker.tiny-vps.com
 tracker.tntvillage.scambioetico.org
 tracker.torrent.eu.org
@@ -409,6 +413,7 @@ tracker.torrentyorg.pl
 tracker.trackerfix.com
 tracker.trackton.ga
 tracker.tricitytorrents.com
+tracker.tryhackx.org
 tracker.tvunderground.org.ru
 tracker.uw0.xyz
 tracker.v6speed.org
@@ -466,6 +471,7 @@ www.torrentsnipe.info
 www.wareztorrent.com
 xwt-classics.net
 xxxtor.com
+yuptracker-eu.gaijinent.com
 yuwabits.net
 z.mercax.com
 zephir.monocul.us
