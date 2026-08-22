@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Aug 21 14:00:08 UTC 2026
+# Last Update - Sat Aug 22 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 468
+# Total domains: 469
 # --------------------------------------------
 # Total size: 8.5K
 # --------------------------------------------
@@ -298,6 +298,7 @@ tracker.btnext.com
 tracker.btsync.gq
 tracker.bug38.com
 tracker.bz
+tracker.cangku.moe
 tracker.cn.nyaa.net
 tracker.coppersurfer.tk
 tracker.corpscorp.online
