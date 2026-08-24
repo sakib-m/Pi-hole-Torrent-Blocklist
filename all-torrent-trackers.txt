@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Aug 23 14:00:08 UTC 2026
+# Last Update - Mon Aug 24 02:00:09 UTC 2026
 # --------------------------------------------
-# Total domains: 470
+# Total domains: 471
 # --------------------------------------------
 # Total size: 8.5K
 # --------------------------------------------
@@ -335,6 +335,7 @@ tracker.gbitt.info
 tracker.gcrenwp.top
 tracker.gigatorrents.ws
 tracker.gmi.gd
+tracker.govt.hu
 tracker.grepler.com
 tracker.halfchub.club
 tracker.hama3.net
