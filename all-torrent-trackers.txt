@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Aug 26 14:00:07 UTC 2026
+# Last Update - Thu Aug 27 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 471
+# Total domains: 472
 # --------------------------------------------
 # Total size: 8.5K
 # --------------------------------------------
@@ -260,6 +260,7 @@ tr.abiir.top
 tr.abir.ga
 tr.bangumi.moe
 tr.btube3.com
+tr.burnabyhighstar.com
 tr.cili001.com
 tr.kxmp.cf
 tr.nyacat.pw
