@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Aug 28 02:00:07 UTC 2026
+# Last Update - Fri Aug 28 14:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 472
+# Total domains: 473
 # --------------------------------------------
-# Total size: 8.5K
+# Total size: 8.6K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -373,6 +373,7 @@ tracker.nyaa.net
 tracker.nyaa.uk
 tracker.nyaa.vc
 tracker.nyap2p.com
+tracker.onetracker.net
 tracker.open-internet.nl
 tracker.openbittorrent.com
 tracker.opentracker.se
