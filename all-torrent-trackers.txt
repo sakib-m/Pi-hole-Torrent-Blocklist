@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Sep  2 14:00:12 UTC 2026
+# Last Update - Thu Sep  3 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 477
+# Total domains: 478
 # --------------------------------------------
-# Total size: 8.6K
+# Total size: 8.7K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -223,6 +223,7 @@ shnflac.net
 shubt.net
 siambt.com
 sukebei.tracker.wf
+supertracker.cc.cd
 t.213891.xyz
 t.acg.rip
 t.nyaatracker.com
