@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Sep  3 14:00:09 UTC 2026
+# Last Update - Fri Sep  4 02:00:08 UTC 2026
 # --------------------------------------------
-# Total domains: 478
+# Total domains: 479
 # --------------------------------------------
 # Total size: 8.7K
 # --------------------------------------------
@@ -115,6 +115,7 @@ finbytes.org
 forever-tracker.zooki.xyz
 forever.publictracker.xyz
 free-tracker.zooki.xyz
+ftp.pet
 funfile.org
 git.vulnix.sh
 grifon.info
