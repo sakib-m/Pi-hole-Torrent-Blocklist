@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Sep 13 14:00:07 UTC 2026
+# Last Update - Mon Sep 14 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 483
+# Total domains: 484
 # --------------------------------------------
-# Total size: 8.7K
+# Total size: 8.8K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -39,6 +39,7 @@ admin.videoenpoche.info
 adminion.n-blade.ru
 all4nothin.net
 anidex.moe
+anime-tracker.aruku.kro.kr
 announce.sktorrent.eu
 api.bitumconference.ru
 archive.torrentonline.cc
