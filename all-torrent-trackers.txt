@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Sep 15 02:00:07 UTC 2026
+# Last Update - Tue Sep 15 14:00:08 UTC 2026
 # --------------------------------------------
-# Total domains: 485
+# Total domains: 486
 # --------------------------------------------
 # Total size: 8.8K
 # --------------------------------------------
@@ -422,6 +422,7 @@ tracker.torrent.eu.org
 tracker.torrentbay.to
 tracker.torrentbytes.net
 tracker.torrentleech.org
+tracker.torrents.observer
 tracker.torrentsnows.com
 tracker.torrenty.org
 tracker.torrentyorg.pl
