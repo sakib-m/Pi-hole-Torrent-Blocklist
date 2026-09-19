@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Sep 19 02:00:06 UTC 2026
+# Last Update - Sat Sep 19 14:00:06 UTC 2026
 # --------------------------------------------
-# Total domains: 488
+# Total domains: 489
 # --------------------------------------------
 # Total size: 8.9K
 # --------------------------------------------
@@ -138,6 +138,7 @@ jsb.by
 jvavav.com
 kanal-4.de
 kinorun.com
+kolanopentracker.airdns.org
 koli.services
 learnbits.me
 leet-tracker.moe
