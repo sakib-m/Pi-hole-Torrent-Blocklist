@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Sep 26 14:00:07 UTC 2026
+# Last Update - Sun Sep 27 02:00:06 UTC 2026
 # --------------------------------------------
-# Total domains: 491
+# Total domains: 492
 # --------------------------------------------
-# Total size: 8.9K
+# Total size: 9.0K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -366,6 +366,7 @@ tracker.lelux.fi
 tracker.lenition.de
 tracker.lintk.me
 tracker.linvk.com
+tracker.midnightprogrammer.net
 tracker.minglong.org
 tracker.mininova.org
 tracker.moeking.me
