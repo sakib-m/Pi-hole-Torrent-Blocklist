@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Sep 29 14:00:07 UTC 2026
+# Last Update - Wed Sep 30 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 492
+# Total domains: 493
 # --------------------------------------------
 # Total size: 9.0K
 # --------------------------------------------
@@ -183,6 +183,7 @@ open.nyaatorrents.info
 open.nyap2p.com
 open.stealth.si
 open.touki.ru
+open.tracker.cl
 open.tracker.ink
 open.trackerlist.xyz
 opentor.org
