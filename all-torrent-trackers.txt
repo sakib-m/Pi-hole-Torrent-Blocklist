@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Oct  6 14:00:08 UTC 2026
+# Last Update - Wed Oct  7 02:00:06 UTC 2026
 # --------------------------------------------
-# Total domains: 493
+# Total domains: 494
 # --------------------------------------------
 # Total size: 9.0K
 # --------------------------------------------
@@ -66,6 +66,7 @@ bms-hosxp.com
 bobbialbano.com
 brokenstones.is
 bt-club.ws
+bt-tracker.de
 bt-tracker.gamexp.ru
 bt.3dmgame.com
 bt.3kb.xyz
