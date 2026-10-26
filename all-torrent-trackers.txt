@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Oct 25 14:00:07 UTC 2026
+# Last Update - Mon Oct 26 02:00:06 UTC 2026
 # --------------------------------------------
-# Total domains: 496
+# Total domains: 497
 # --------------------------------------------
 # Total size: 9.0K
 # --------------------------------------------
@@ -412,6 +412,7 @@ tracker.qingwapt.org
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
+tracker.sela.st
 tracker.shkinev.me
 tracker.skynetcloud.site
 tracker.skyts.net
