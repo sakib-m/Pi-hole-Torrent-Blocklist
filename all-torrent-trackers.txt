@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Oct 27 02:00:07 UTC 2026
+# Last Update - Tue Oct 27 14:00:06 UTC 2026
 # --------------------------------------------
-# Total domains: 497
+# Total domains: 498
 # --------------------------------------------
-# Total size: 9.0K
+# Total size: 9.1K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -332,6 +332,7 @@ tracker.e-utp.net
 tracker.eddie4.nl
 tracker.electro-torrent.pl
 tracker.etree.org
+tracker.evergarden.uk
 tracker.ex.ua
 tracker.farted.net
 tracker.filemail.com
