@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Nov  9 14:00:07 UTC 2026
+# Last Update - Tue Nov 10 02:00:06 UTC 2026
 # --------------------------------------------
-# Total domains: 504
+# Total domains: 505
 # --------------------------------------------
 # Total size: 9.2K
 # --------------------------------------------
@@ -296,6 +296,7 @@ tracker.acgnx.se
 tracker.adgk.net
 tracker.aletorrenty.pl
 tracker.ali213.net
+tracker.alt.cx
 tracker.altrosky.nl
 tracker.anirena.com
 tracker.anonwebz.xyz
