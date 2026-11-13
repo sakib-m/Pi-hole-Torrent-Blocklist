@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Nov 12 14:00:06 UTC 2026
+# Last Update - Fri Nov 13 02:00:06 UTC 2026
 # --------------------------------------------
-# Total domains: 506
+# Total domains: 508
 # --------------------------------------------
-# Total size: 9.2K
+# Total size: 9.3K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -311,6 +311,7 @@ tracker.birkenwald.de
 tracker.bittor.pw
 tracker.bittorrent.am
 tracker.blacksparrowmedia.net
+tracker.bluefrog.pw
 tracker.breizh.pm
 tracker.bt-hash.com
 tracker.bt4g.com
@@ -419,6 +420,7 @@ tracker.puvvadi.net
 tracker.qingwapt.org
 tracker.qu.ax
 tracker.renfei.net
+tracker.run.place
 tracker.sbsub.com
 tracker.sela.st
 tracker.shkinev.me
