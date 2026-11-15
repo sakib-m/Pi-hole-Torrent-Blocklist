@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Nov 14 14:00:06 UTC 2026
+# Last Update - Sun Nov 15 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 508
+# Total domains: 509
 # --------------------------------------------
 # Total size: 9.3K
 # --------------------------------------------
@@ -235,6 +235,7 @@ share.hkg-fansub.info
 shnflac.net
 shubt.net
 siambt.com
+stairs.lat
 sukebei.tracker.wf
 supertracker.cc.cd
 t.213891.xyz
