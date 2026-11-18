@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Nov 17 14:00:09 UTC 2026
+# Last Update - Wed Nov 18 02:00:07 UTC 2026
 # --------------------------------------------
-# Total domains: 509
+# Total domains: 510
 # --------------------------------------------
 # Total size: 9.3K
 # --------------------------------------------
@@ -505,6 +505,7 @@ wareztorrent.com
 wassermann.online
 whybother.torrentonline.cc
 worldboxingvideoarchive.com
+www.all4nothin.net
 www.genesis-sp.org
 www.loushao.net
 www.midea123.z-media.com.cn
