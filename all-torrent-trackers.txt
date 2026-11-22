@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Nov 21 14:00:07 UTC 2026
+# Last Update - Sun Nov 22 02:00:06 UTC 2026
 # --------------------------------------------
-# Total domains: 512
+# Total domains: 517
 # --------------------------------------------
-# Total size: 9.3K
+# Total size: 9.4K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -242,6 +242,7 @@ t.213891.xyz
 t.acg.rip
 t.nyaatracker.com
 t.overflow.biz
+t1.hloli.org
 t1.itrus.su
 t1.leech.ie
 t1.pow7.com
@@ -287,6 +288,7 @@ tr.zukizuki.org
 tr2.ysagin.top
 tr3.ysagin.top
 tr4ck3r.duckdns.org
+track3r.site
 tracker-udp.gbitt.info
 tracker-v6.zooki.xyz
 tracker.004430.xyz
@@ -296,6 +298,7 @@ tracker.0x7c0.com
 tracker.23794.top
 tracker.36dm.com
 tracker.7471.top
+tracker.aburaya.live
 tracker.acgnx.se
 tracker.adgk.net
 tracker.aletorrenty.pl
@@ -340,6 +343,7 @@ tracker.dutchtracking.nl
 tracker.dyne.org
 tracker.e-utp.net
 tracker.eddie4.nl
+tracker.edkj.club
 tracker.electro-torrent.pl
 tracker.etree.org
 tracker.evergarden.uk
@@ -370,6 +374,7 @@ tracker.imgoingto.icu
 tracker.internetwarriors.net
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
+tracker.ixuexi.click
 tracker.k.vu
 tracker.kali.org
 tracker.kamigami.org
