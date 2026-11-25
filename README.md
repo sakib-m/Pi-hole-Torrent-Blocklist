@@ -1,3 +1,11 @@
+# 🚧 Under Maintenance
+
+This project is currently under maintenance as I'm working on a better version.
+
+A new version is in the works. Stay tuned!
+
+---
+
 ## How to use?
 Login to your Pi-Hole web interface, then go to `Group Management` > `Adlists`<br>
 
